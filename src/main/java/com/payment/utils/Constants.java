@@ -21,4 +21,5 @@ public class Constants {
     public static final String SPRING_PROFILE_STAGING = "staging";
 
     public static final String LOCAL_SERVER_URL = "http://localhost:8080";
+
 }
